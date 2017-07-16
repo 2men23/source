@@ -229,7 +229,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: null,
+            rulesLink: http,
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
